@@ -2,6 +2,8 @@
 
 So-called malicious domains curated from sources that only update occassionaly or already died. I therefore regard these maldoamins 'immortal'.
 
+The domains' availability was checked by PyFunceble Project. 
+
 DNSBL - community project discontinued by RiskAnalytics
 
 Baddboyz Hosts
