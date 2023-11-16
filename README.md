@@ -20,4 +20,4 @@ rlwpx.free.fr.hrsk - last updated in March 2022
 
 hostsfile.org (add.Risk) -last updated in 2018
 
-Please note besides those still receiving updates frequently, hosts/domain blacklists that combine ads, tracking, spam and others with maldomains are excluded. One expample is mvps hosts. And I am not responsible for false positives included in original sources. The repo mostly serves as a monument to salute community efforts to combat maldomains in the old good days. They just gone away and I missed them. 
+Please note besides those still receiving updates frequently, hosts/domain blacklists that combine ads, tracking, spam and others with maldomains are excluded. One example is mvps hosts. And I am not responsible for false positives included in original sources. The repo mostly serves as a monument to salute community efforts to combat maldomains in the old good days. They just gone away and I missed them. 
